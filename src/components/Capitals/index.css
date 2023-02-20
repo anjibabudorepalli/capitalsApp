@@ -1,0 +1,6 @@
+/* Write your CSS here */
+
+.container-2 {
+  display: flex;
+  justify-content: flex-start;
+}
